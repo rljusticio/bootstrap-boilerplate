@@ -1,0 +1,28 @@
+{
+  "name": "bs-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for user interfaces made with bootstrap, less, nodejs and harpjs",
+  "main": "/www/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rljusticio/bootstrap-boilerplate.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "less",
+    "harp",
+    "node"
+  ],
+  "author": "Justin Walters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rljusticio/bootstrap-boilerplate/issues"
+  },
+  "homepage": "https://github.com/rljusticio/bootstrap-boilerplate#readme",
+  "devDependencies": {
+    "harp": "^0.20.3"
+  }
+}
